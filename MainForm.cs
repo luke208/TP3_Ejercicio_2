@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Lab3_Ejercicio2.Archivos_de_Recursos;
 
 namespace Lab3_Ejercicio2
 {

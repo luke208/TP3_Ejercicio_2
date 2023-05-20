@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab3_Ejercicio2.Archivos_de_Recursos
+namespace Lab3_Ejercicio2
 {
     public class Empleado
     {
