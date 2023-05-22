@@ -34,7 +34,7 @@ namespace Punto_2
             this.Close();
             
         }
-
+        
         private void btSalir_Click(object sender, EventArgs e)
         {
             principal.Show();

@@ -8,9 +8,12 @@ namespace Punto_2
 {
     public class Empleado
     {
+        // Los atributos de la clase
         private string nombre;
         private string apellido;
 
+        //Metodos, el nombre y el apellido del empleado, ambos devuelven
+        //y se le puede modificar el valor
         public string Nombre
         {
             get { return nombre; }
@@ -21,9 +24,16 @@ namespace Punto_2
             get { return apellido; }
             set { apellido = value; }
         }
+        //Funcion que muestra el email, formado por el nombre,apellido
+        //y el final predefinido
         public string Email
         {
             get { return $"{nombre}{apellido}@company.com"; }
+        }
+        //Otra funcion dedicada a mostrar el nombre completo
+        public string NombreCompleto
+        {
+            get { return $"{Apellido}, {nombre}"; }
         }
     }
 }

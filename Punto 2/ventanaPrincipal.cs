@@ -15,24 +15,25 @@ namespace Punto_2
     public partial class ventanaPrincipal : Form
     {
         //Creo la lista de empleados, tiene de referencia a la variable empleado(nombre,apellido,email)
-        List<Empleado> empleados= new List<Empleado>();
-        int numEmpleado= 0;
+        public List<Empleado> empleados= new List<Empleado>();
+        int numEmpleado= 0; //Tiene una variable que indica la cant de empleados
         public ventanaPrincipal()
         {
             InitializeComponent();
-            ver_canEmpleado(numEmpleado);
+            ver_canEmpleado(numEmpleado); 
         }
 
-        //Esta funcion sirve para agregar datos a la lista empleado
+        //Esta funcion sirve para agregar datos a la lista empleados
         public void nuevoEmpleado(string nombre, string apellido)
         {
-            empleados.Add(new Empleado());
+            empleados.Add(new Empleado()); //Añade un nuevo elemento del tipo clase Empleado
             empleados[numEmpleado].Nombre = nombre;
             empleados[numEmpleado].Apellido = apellido;
             numEmpleado++;
-            ver_canEmpleado(numEmpleado);
+            ver_canEmpleado(numEmpleado); //Antes de volver al principal, verifica la cantidad de empleados
         }
-       
+      
+        //Esta funcion, indica si habilita los botones de eliminar o ver lista
         public void ver_canEmpleado(int cant)
         {
             if (cant == 0)
@@ -56,6 +57,12 @@ namespace Punto_2
             
         }
 
+        //Se utiliza para cerrar desde la x en la ventana del formulario
+        private void formPrincipal_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            e.Cancel = true;
+        }
+        //Cierra la aplicacion con el boton salir
         private void btSalir_Click(object sender, EventArgs e)
         {
             Application.Exit();

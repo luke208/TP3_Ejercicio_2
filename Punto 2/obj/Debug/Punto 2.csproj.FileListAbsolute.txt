@@ -12,3 +12,17 @@ C:\Users\Luke\source\repos\Punto 2\obj\Debug\Punto 2.pdb
 C:\Users\Luke\source\repos\Punto 2\obj\Debug\Punto_2.EliminarEmpleado.resources
 C:\Users\Luke\source\repos\Punto 2\obj\Debug\Punto_2.AgregarEmpleado.resources
 C:\Users\Luke\source\repos\Punto 2\obj\Debug\Punto_2.ventanaPrincipal.resources
+C:\Users\Luke\Documents\Analisis de Sistemas\TP 3\TP3_Ejercicio_2\Punto 2\bin\Debug\Punto 2.exe.config
+C:\Users\Luke\Documents\Analisis de Sistemas\TP 3\TP3_Ejercicio_2\Punto 2\bin\Debug\Punto 2.exe
+C:\Users\Luke\Documents\Analisis de Sistemas\TP 3\TP3_Ejercicio_2\Punto 2\bin\Debug\Punto 2.pdb
+C:\Users\Luke\Documents\Analisis de Sistemas\TP 3\TP3_Ejercicio_2\Punto 2\obj\Debug\Punto 2.csproj.AssemblyReference.cache
+C:\Users\Luke\Documents\Analisis de Sistemas\TP 3\TP3_Ejercicio_2\Punto 2\obj\Debug\Punto 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luke\Documents\Analisis de Sistemas\TP 3\TP3_Ejercicio_2\Punto 2\obj\Debug\Punto_2.AgregarEmpleado.resources
+C:\Users\Luke\Documents\Analisis de Sistemas\TP 3\TP3_Ejercicio_2\Punto 2\obj\Debug\Punto_2.EliminarEmpleado.resources
+C:\Users\Luke\Documents\Analisis de Sistemas\TP 3\TP3_Ejercicio_2\Punto 2\obj\Debug\Punto_2.ventanaPrincipal.resources
+C:\Users\Luke\Documents\Analisis de Sistemas\TP 3\TP3_Ejercicio_2\Punto 2\obj\Debug\Punto_2.Properties.Resources.resources
+C:\Users\Luke\Documents\Analisis de Sistemas\TP 3\TP3_Ejercicio_2\Punto 2\obj\Debug\Punto_2.Lista.resources
+C:\Users\Luke\Documents\Analisis de Sistemas\TP 3\TP3_Ejercicio_2\Punto 2\obj\Debug\Punto 2.csproj.GenerateResource.cache
+C:\Users\Luke\Documents\Analisis de Sistemas\TP 3\TP3_Ejercicio_2\Punto 2\obj\Debug\Punto 2.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Documents\Analisis de Sistemas\TP 3\TP3_Ejercicio_2\Punto 2\obj\Debug\Punto 2.exe
+C:\Users\Luke\Documents\Analisis de Sistemas\TP 3\TP3_Ejercicio_2\Punto 2\obj\Debug\Punto 2.pdb
